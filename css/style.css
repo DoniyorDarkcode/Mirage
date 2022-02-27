@@ -534,6 +534,7 @@ a{
   line-height: 30px;
   position: absolute;
   padding: 15px 30px;
+  border: none;
   border-radius: 5px;
   align-items: center;
   letter-spacing: 0.02em;
